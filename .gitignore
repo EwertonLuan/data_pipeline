@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Files
+chicago_taxi_2020.csv
+option_data.json
